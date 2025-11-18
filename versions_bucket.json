@@ -9,11 +9,11 @@
     "smaai5_ft_status": false,
     "npro_ft_status": false,
     "smaai5pro_ft_status": true,
-    "rollback_option": true,
+    "rollback_option": false,
     "smaai5_rlbk_version": "6.1.20",
     "npro_rlbk_version": "x.x.x",
     "smaai5pro_rlbk_version": "8.0.2",
-    "smaai5_rlbk_status": true,
+    "smaai5_rlbk_status": false,
     "npro_rlbk_status": false,
     "smaai5pro_rlbk_status": false
 }
